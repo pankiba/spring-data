@@ -1,0 +1,53 @@
+[
+  {
+    "employeeId": 5001,
+    "firstName": "John",
+    "lastName": "McLane",
+    "gender": "M",
+    "email": "john.rambo@users.noreply.github.com",
+    "birthDate": "1970-07-30",
+    "joiningDate": "2008-07-26",
+    "grade": "Developer",
+    "salary": 20000,
+    "projects": [
+      {
+        "projectId": 1001,
+        "name": "Artificial Inteligence"
+      }
+    ]
+  },
+  {
+    "employeeId": 5002,
+    "firstName": "Ethan",
+    "lastName": "Hunt",
+    "gender": "M",
+    "email": "ethan.hunt@users.noreply.github.com",
+    "birthDate": "1982-09-26",
+    "joiningDate": "2005-07-21",
+    "grade": "Lead",
+    "salary": 30000,
+    "projects": [
+      {
+        "projectId": 1002,
+        "name": "SMART"
+      }
+    ]
+  },
+  {
+    "employeeId": 5003,
+    "firstName": "Jery",
+    "lastName": "Maguire",
+    "gender": "M",
+    "email": "jery.maguire@users.noreply.github.com",
+    "birthDate": "1959-06-08",
+    "joiningDate": "1994-04-26",
+    "grade": "Lead",
+    "salary": 30000,
+    "projects": [
+      {
+        "projectId": 1001,
+        "name": "Artificial Inteligence"
+      }
+    ]
+  }
+]

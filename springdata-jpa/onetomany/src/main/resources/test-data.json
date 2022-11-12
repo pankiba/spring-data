@@ -1,0 +1,30 @@
+[
+  {
+    "businessUnitId": 1001,
+    "businessUnitName": "ADM",
+    "employees": [
+      {
+        "employeeId": 5002,
+        "firstName": "Ethan",
+        "lastName": "Hunt",
+        "gender": "M",
+        "email": "ethan.hunt@users.noreply.github.com",
+        "birthDate": "1982-09-26",
+        "joiningDate": "2005-07-21",
+        "grade": "Lead",
+        "salary": 30000
+      },
+      {
+        "employeeId": 5001,
+        "firstName": "John",
+        "lastName": "McLane",
+        "gender": "M",
+        "email": "john.rambo@users.noreply.github.com",
+        "birthDate": "1970-07-30",
+        "joiningDate": "2008-07-26",
+        "grade": "Developer",
+        "salary": 20000
+      }
+    ]
+  }
+]

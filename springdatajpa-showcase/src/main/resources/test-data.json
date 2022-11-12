@@ -1,0 +1,92 @@
+[
+	{
+		"firstName": "John",
+		"lastName": "McLane",
+		"gender": "M",
+		"email": "john.mclane@users.noreply.github.com",
+		"birthDate": "1970-07-30",
+		"joiningDate": "2008-07-26",
+		"grade": "Developer",
+		"salary": 20000
+	},
+	{
+		"firstName": "Ethan",
+		"lastName": "Hunt",
+		"gender": "M",
+		"email": "ethan.hunt@@users.noreply.github.com",
+		"birthDate": "1982-09-26",
+		"joiningDate": "2005-07-21",
+		"grade": "Lead",
+		"salary": 30000
+	},
+	{
+		"firstName": "Jery",
+		"lastName": "Maguire",
+		"gender": "M",
+		"email": "jery.maguire@@users.noreply.github.com",
+		"birthDate": "1959-06-08",
+		"joiningDate": "1994-04-26",
+		"grade": "Lead",
+		"salary": 30000
+	},
+	{
+		"firstName": "Jack",
+		"lastName": "Sparrow",
+		"gender": "M",
+		"email": "jack.sparrow@users.noreply.github.com",
+		"birthDate": "1977-12-03",
+		"joiningDate": "1999-04-15",
+		"grade": "Developer",
+		"salary": 20000
+	},
+	{
+		"firstName": "Mary",
+		"lastName": "Poppins",
+		"gender": "F",
+		"email": "mary.poppins@users.noreply.github.com",
+		"birthDate": "1967-11-30",
+		"joiningDate": "1991-12-21",
+		"grade": "Developer",
+		"salary": 20000
+	},
+	{
+		"firstName": "Rocky",
+		"lastName": "Balboa",
+		"gender": "M",
+		"email": "rocky.balboa@users.noreply.github.com",
+		"birthDate": "1959-03-08",
+		"joiningDate": "1995-06-25",
+		"grade": "Architect",
+		"salary": 40000
+	},
+	{
+		"firstName": "James",
+		"lastName": "Bond",
+		"gender": "F",
+		"email": "sansa.stark@users.noreply.github.com",
+		"birthDate": "1991-08-17",
+		"joiningDate": "2017-05-14",
+		"grade": "Developer",
+		"salary": 20000
+	},
+	{
+		"firstName": "Jack",
+		"lastName": "Reacher",
+		"gender": "M",
+		"email": "jack.reacher@users.noreply.github.com",
+		"birthDate": "1985-04-19",
+		"joiningDate": "2007-07-29",
+		"grade": "Developer",
+		"salary": 20000
+	},
+	{
+		"firstName": "Vito",
+		"lastName": "Corleone",
+		"gender": "M",
+		"email": "vito.corleone@users.noreply.github.com",
+		"birthDate": "1991-03-27",
+		"joiningDate": "2017-03-02",
+		"grade": "Architect",
+		"salary": 40000
+	}
+]
