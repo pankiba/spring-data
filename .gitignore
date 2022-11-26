@@ -47,3 +47,5 @@ out/
 
 # H2 database
 data/
+/.metadata/
+/.metadata/
