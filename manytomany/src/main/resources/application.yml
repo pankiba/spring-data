@@ -1,3 +1,3 @@
-### server propertiesserver:  servlet:    context-path: /manytomany  port: 8085### application properties
+### server propertiesserver:  servlet:    context-path: /manytomany### application properties
 spring:  application:    name: manytomany
   jpa:    hibernate:      ddl-auto: create    show-sql: false    properties:      hibernate.format_sql: true  datasource:    url: jdbc:h2:file:./data/manytomany    username: sa    password:     driverClassName: org.h2.Driver      ### logging propertieslogging:  level:    org.springframework: INFO#    org.hibernate.SQL: DEBUG#    org.hibernate.type.descriptor.sql.BasicBinder: TRACE#    org.hibernate.type.descriptor.sql.BasicExtractor: TRACE  pattern:    console: "%d{yyyy-MM-dd} %d{HH:mm:ss.SSS} | %blue(%thread) | %5p | %logger | %m%n"
